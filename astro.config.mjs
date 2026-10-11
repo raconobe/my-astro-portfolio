@@ -5,6 +5,6 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://musical-lollipop-6d2089.netlify.app',
+  site: 'https://raconobe.netlify.app',
   integrations: [mdx(), sitemap(), tailwind()],
 });   
